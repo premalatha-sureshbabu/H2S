@@ -1,4 +1,5 @@
-Poisonous-Plant-Classifier
+### Poisonous-Plant-Classifier
+
 Poisonous plants are dangerous for unsuspecting individuals such as children. Especially the plants that are common in backyards. There are many casualties due to lack of supervision of gardens in public and private areas.
 
 One solution to this problem is image classification using deep learning. Keeping this in mind I made a custom data set of the poisonous plants that are common in our home area. I got a list of these from here.
